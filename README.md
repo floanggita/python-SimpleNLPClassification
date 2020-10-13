@@ -1,4 +1,3 @@
-# python-SimpleNLPClassification
 Simple Natural Language Processing using Random Forest Classification &amp; NLTK
 
 News Data
